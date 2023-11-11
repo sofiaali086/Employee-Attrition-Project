@@ -1,0 +1,14 @@
+Employees Attrition Project:
+
+Employees are the backbone of the organization. Organization's performance is heavily based on the quality of the employees.Challenges that an organization has to face due to employee attrition are:
+1.Expensive in terms of both time and money to train the new employees,
+2.Loss of experienced employee,
+3.Impact in productivity, and
+4.Impact in profit
+
+
+Business questions to brainstorm:
+1.What factors are contributing more to employee attrition?
+2.What type of measures should the company take in order to retain their employees?
+
+
